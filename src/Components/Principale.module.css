@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding : 0; 
+    /* font-family:Georgia, 'Times New Roman', Times, serif; */
+    box-sizing: border-box;
+}
+ body{
+
+    background: linear-gradient(90deg, rgba(250,255,234,0.09585084033613445) 43%, rgba(244,247,186,0.5888480392156863) 78%, rgba(229,232,167,1) 100%);
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+} 
+header {
+    position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  height: 11%;
+  
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+ 
+}
+.titre{
+    font-family: '29LTZeyn-Regular', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 50%;
+    color: aliceblue;
+}
+.imagess{
+    position: fixed;
+    margin-left: 80%;
+    margin-top: -1.2%;
+   
+}
