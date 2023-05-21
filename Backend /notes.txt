@@ -1,0 +1,4 @@
+Realisée par : 
+MAJDI Samia
+EL ALLAOUI Saloua
+ce dossier contient le fichier à executé pour demarrer le backend + data 
